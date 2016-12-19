@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "zeit/next.js",
+    "preact": "^7.1.0",
+    "preact-compat": "^3.9.4",
+    "react": "preact-compat/react",
+    "react-dom": "preact-compat/react-dom"
+  }
+}
